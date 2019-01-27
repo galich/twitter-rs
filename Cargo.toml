@@ -6,6 +6,6 @@ repository = "https://github.com/MorganGallant/twitter-rs.git"
 homepage = "https://github.com/MorganGallant/twitter-rs.git"
 license = "Apache-2.0"
 readme = "README.md"
-description = "Efficient Rust Library for Twitter API"
+description = "[WIP] Efficient Rust Library for Twitter API"
 
 [dependencies]
