@@ -9,3 +9,4 @@ readme = "README.md"
 description = "[WIP] Efficient Rust Library for Twitter API"
 
 [dependencies]
+url = "*"
